@@ -1,0 +1,7 @@
+[tms]
+scheme = https
+host = Odoo server
+port = ***
+database = ***
+username = ***
+password = ***
